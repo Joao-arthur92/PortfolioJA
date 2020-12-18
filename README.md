@@ -1,6 +1,6 @@
 # Portfolio de João Arthur
 
-Contém projetos de insights, modelagem de dados com machine learning e webscraping. Segue abaixo o resumo de cada projeto:
+Contém projetos de insights, modelagem de dados com machine learning e web scraping. Segue abaixo o resumo de cada projeto:
 
 <b>Análise Exploratória Indicadores BRICS</b> - Este conjunto de dados está disponível no Kaggle. Estes datasets possui informações sobre os indicadores socioeconômicos dos países emergentes do BRICS (Brasil, Rússia, India, China e África do Sul) de 1970 a 2019.
 A pergunta principal que queremos responder é: Um povo "mais educado" é um povo que se preocupa com o meio ambiente? A renda per Capita aumentou na mesma proporção que o acesso a eletricidade, mostrando uma correlação? Quando a educação é elevada, a Renda per Capita também será?
