@@ -42,12 +42,12 @@ O foco é criar um algoritmo de Unsupervising Learning simples, no qual encontra
 <b>Clustering de cartão de crédito</b> - Dataset disponível no Kaggle. Este conjunto de dados resume o comportamento de 9 mil titulares de cartão de crédito ativos durante 6 meses. Ele possui 18 variáveis comportamentais dos clientes. Será feito análise exploratória dos dados e modelos de machine learning com base em busca de padrões, com KMeans. Será aplicado técnicas para ser escolhido os atributos que realmente façam diferença no modelo, conhecido como PCA. Será, também,  avaliado através do método Silhouette.
 
 
-<b>Consumo de Cerveja - Classificação e Análise Exploratória</b> - Dataset disponível no Kaggle. Este conjunto de dados possui variáveis de temperatura máxima, média e mínima, mm de precipitação, consumo de cerveja de acordo com o tempo durante todos os dias de 2015 em São Paulo. Possui também a variável se aquele dia era no final de semana ou não (1 para sim e 0 para não).
+<b>Consumo de Cerveja - Regressão e Análise Exploratória</b> - Dataset disponível no Kaggle. Este conjunto de dados possui variáveis de temperatura máxima, média e mínima, mm de precipitação, consumo de cerveja de acordo com o tempo durante todos os dias de 2015 em São Paulo. Possui também a variável se aquele dia era no final de semana ou não (1 para sim e 0 para não).
 
 Será feito análise exploratória dos dados, será criado três modelos de classificação e avaliado qual o melhor dentre eles.
 
 
-<b>Web Scraping</b> - 
+<b>Web Scraping</b> - Conjunto de dados extraído via Web Scraping do site fbref, que possui estatísticas de muitos campeonatos nacionais de vários esportes. O escolhido por mim foi o Campeonato Brasileiro 2020 até a rodada 27 e foi feito uma análise exploratória das estatísticas grupais dos goleiros de todos os times extraídas do site.
 
 
 <b>Sistema de Recomendação</b> - 
