@@ -50,7 +50,7 @@ Será feito análise exploratória dos dados, será criado três modelos de clas
 <b>Web Scraping</b> - Conjunto de dados extraído via Web Scraping do site fbref, que possui estatísticas de muitos campeonatos nacionais de vários esportes. O escolhido por mim foi o Campeonato Brasileiro 2020 até a rodada 27 e foi feito uma análise exploratória das estatísticas grupais dos goleiros de todos os times extraídas do site.
 
 
-<b>Deploy de um modelo de Machine Learning</b> - O conjunto de dados possui informações de vinhos, como densidade, pH e com isso descobre-se a qualidade do mesmo.
+<b>Qualidade do vinho - Regressão e Deploy do modelo</b> - O conjunto de dados possui informações de vinhos, como densidade, pH e com isso descobre-se a qualidade do mesmo.
 É um modelo simples de Machine Learning com base em regressão para deploy em um servidor local em uma API feito por mim.
 
 <b>Sistema de Recomendação</b> - 
