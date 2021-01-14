@@ -51,6 +51,6 @@ Será feito análise exploratória dos dados, será criado três modelos de clas
 
 
 <b>Deploy de um modelo de Machine Learning</b> - O conjunto de dados possui informações de vinhos, como densidade, pH e com isso descobre-se a qualidade do mesmo.
-É um modelo simples de Machine Learning com base em regressão para deploy em uma API feito por mim.
+É um modelo simples de Machine Learning com base em regressão para deploy em um servidor local em uma API feito por mim.
 
 <b>Sistema de Recomendação</b> - 
